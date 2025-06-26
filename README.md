@@ -11,7 +11,6 @@
 - 🎓 I'm currently a **Data Science Trainee** passionate about solving real-world problems using data.
 - 🧠 I’m learning **Machine Learning, Deep Learning, and LangChain**.
 - 📈 Final Year Project: **AI-Based Book Recommendation System using LangChain**
-- 👨‍💻 Currently working on: [Fake Transaction Detection Project](#)
 - ✨ Exploring: **Data Analysis, NLP, and LLM-based AI tools**
 - 🥅 2025 Goals: Master Data Science, build an impactful portfolio and start freelancing.
 - 💬 Ask me about: `Python`, `Pandas`, `EDA`, `ML Projects`
@@ -43,10 +42,9 @@
 ---
 
 ### 🔥 My Top Projects:
-- 📚 [AI-Based Book Recommender using LangChain](#)
-- 💳 [Fake Transaction Detection System](#)
-- 🎬 [Movie Recommendation System](#)
-- 📊 [Credit Card Spending PowerBI Report](#)
+- 📚 [AI-Based Book Recommender using LangChain](https://github.com/Muhammad-Awaix/FYP_Book_Recom)
+- 🎬 [Movie Recommendation System](https://github.com/Muhammad-Awaix/-ML-Pyhton-Projects/blob/main/Movies_Rec_Sys.ipynb)
+- 📊 [Credit Card Spending PowerBI Report]
 
 ---
 
