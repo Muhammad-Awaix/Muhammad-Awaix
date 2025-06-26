@@ -53,13 +53,13 @@
 ### 📫 Connect With Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-awais-10773930a/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhamad-awais/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:muhammadawais.ds@gmail.com">
+  <a href="mailto:mawais.ai021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://huggingface.co/Muhammad Awais">
+  <a href="https://huggingface.co/mawais021">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" height="35" />
   </a>
 </p>
