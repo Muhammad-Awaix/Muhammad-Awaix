@@ -45,7 +45,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 📚 [AI-Based Book Recommender with LangChain](https://github.com/Muhammad-Awaix/FYP_Book_Recom)
+- 📚 [AI-Based Book Recommender with LangChain](https://github.com/Muhammad-Awaix/FYP)
 - 🎬 [Movie Recommendation System](https://github.com/Muhammad-Awaix/-ML-Pyhton-Projects/blob/main/Movies_Rec_Sys.ipynb)
 - 📊 [Credit Card Spending PowerBI Report](#) <!-- Add link if available -->
 
