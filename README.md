@@ -45,12 +45,14 @@
 ---
 
 ### 🚀 Featured Projects
-- 📚 [AI-Based Book Recommender with LangChain](https://github.com/Muhammad-Awaix/FYP)
+- 📘 [AI-Based Book Recommender with LangChain](https://github.com/Muhammad-Awaix/FYP)
 - 🎬 [Movie Recommendation System](https://github.com/Muhammad-Awaix/-ML-Pyhton-Projects/blob/main/Movies_Rec_Sys.ipynb)
 - 📉 [Google Stock Price Prediction](https://github.com/Muhammad-Awaix/-ML-Pyhton-Projects/blob/main/Stock_price.ipynb)
-- 📊 [Customer Segmentation (Unsupervised ML)](https://github.com/Muhammad-Awaix/Data-Science-Learning/blob/main/Python/Unsupervised_Learning/k_means_project.ipynb)]<!-- Add link if available -->
+- 📊 [Customer Segmentation (Unsupervised ML)](https://github.com/Muhammad-Awaix/Data-Science-Learning/blob/main/Python/Unsupervised_Learning/k_means_project.ipynb)
 
 ---
+### 📚 Wana Learn?
+- [Full Python and Machine Learning Repo](https://github.com/Muhammad-Awaix/Data-Science-Learning/tree/main/Python)
 
 ### 📫 Let’s Connect
 
