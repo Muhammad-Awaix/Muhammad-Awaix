@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">🚀 Data Science Trainee | Python & ML Enthusiast | EDA Explorer</h3>
+<h3 align="center">🚀  IBM certified Data Scientist and AI enthusiast | Python & ML Enthusiast | EDA Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&width=500&lines=Built+with+Python+%7C+Turning+Data+into+Insights;Pandas+%7C+Machine+Learning+%7C+LangChain;Learning+and+Building+Every+Day+🚀" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **Aspiring Data Scientist** from Pakistan, passionate about solving real-world challenges with data.
+- ?A IBM Data Scientist** from Pakistan, passionate about solving real-world challenges with data.
 - 🐍 **Built with:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, LangChain.
 - 🧠 Currently upskilling in **Machine Learning, Deep Learning, NLP & LLM-based AI**.
 - 📈 **Final Year Project:** AI-Based Book Recommendation System using LangChain.
