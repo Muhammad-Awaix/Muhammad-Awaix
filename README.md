@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- ?A IBM Data Scientist** from Pakistan, passionate about solving real-world challenges with data.
+- **IBM certified Data Scientist** from Pakistan, passionate about solving real-world challenges with data.
 - 🐍 **Built with:** Python, Pandas, NumPy, Scikit-Learn, TensorFlow, LangChain.
 - 🧠 Currently upskilling in **Machine Learning, Deep Learning, NLP & LLM-based AI**.
 - 📈 **Final Year Project:** AI-Based Book Recommendation System using LangChain.
