@@ -64,7 +64,7 @@
 ### 📃 Certifications
 
 <p align="center">
-  <img src=""C:\Users\MR OSMAN\Desktop\Pdf's\Certificates\1755424501687.jpg"" width="250"/>
+  <img src="Certificates/1755424501687.jpg" width="250"/>
   <img src="CERTIFICATE_URL_2" width="250"/>
   <img src="CERTIFICATE_URL_3" width="250"/>
 </p>
