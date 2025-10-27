@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">IBM Certified Data Scientist | Machine Learning & AI Enthusiast | EDA & Insight-Driven Analytics</h3>
+<h3 align="center">
+Results-driven Data Scientist and AI Practitioner specialized in Machine Learning, Deep Learning, and Data Analytics.  
+Focused on building intelligent, scalable, and real-world data solutions 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=500&lines=Turning+Raw+Data+into+Smart+Decisions+📊;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Always+Learning+%7C+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=32CD32&width=500&lines=Turning+Raw+Data+into+Smart+Decisions+📊;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;Always+Learning+%7C+Always+Building🚀" />
 </p>
 
 ---
@@ -61,7 +64,7 @@
 
 ---
 
-### 📃 Certifications
+### 📃 Top Certifications
 
 <p align="center">
   <img src="Certificates/1755424501687.jpg" width="250"/>
