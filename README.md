@@ -66,7 +66,7 @@
 <p align="center">
   <img src="Certificates/1755424501687.jpg" width="250"/>
   <img src="Certificates/Certificate.png" width="250"/>
-  <img src="CERTIFICATE_URL_3" width="250"/>
+  <img src="Certificates/Screenshot 2025-10-02 235140.png" width="250"/>
 </p>
 
 ---
