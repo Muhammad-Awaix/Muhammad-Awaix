@@ -68,6 +68,7 @@ Focused on building intelligent, scalable, and real-world data solutions 🚀
 
 <p align="center">
   <img src="Certificates/1755424501687.jpg" width="250"/>
+  <img src="Certificates/gfg.png" width="250"/>
   <img src="Certificates/Certificate.png" width="250"/>
   <img src="Certificates/Screenshot 2025-10-02 235140.png" width="250"/>
 </p>
