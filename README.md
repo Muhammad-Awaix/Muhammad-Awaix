@@ -40,8 +40,6 @@ Focused on building intelligent, scalable, and real-world data solutions 🚀
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Awaix&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Awaix&layout=compact&theme=tokyonight"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Awaix&theme=tokyonight"/>
 </p>
 
