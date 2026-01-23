@@ -50,6 +50,7 @@ Focused on building intelligent, scalable, and real-world data solutions 🚀
 | Project | Description | Link |
 |--------|-------------|------|
 | 📚 AI Book Recommender | LangChain + Vector DB | 🔗 [Repo](https://github.com/Muhammad-Awaix/FYP) |
+| 📚 AI Job Recommender | Streamlit + Apify | 🔗 [Repo](https://github.com/Muhammad-Awaix/AI-Job-Recommendation) |
 | 🎬 Movie Recommender | Content-Based Filtering | 🔗 [Project](https://github.com/Muhammad-Awaix/-ML-Pyhton-Projects/blob/main/Movies_Rec_Sys.ipynb) |
 | 📉 Stock Price Prediction | LSTM Deep Learning | 🔗 [Notebook](https://github.com/Muhammad-Awaix/-ML-Pyhton-Projects/blob/main/Stock_price.ipynb) |
 | 🧩 Customer Segmentation | K-Means clustering | 🔗 [Notebook](https://github.com/Muhammad-Awaix/Data-Science-Learning/blob/main/Python/Unsupervised_Learning/k_means_project.ipynb) |
