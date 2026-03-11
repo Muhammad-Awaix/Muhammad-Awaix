@@ -15,7 +15,7 @@ Focused on building intelligent, scalable, and real-world data solutions 🚀
 - 🤖 Skilled in **Python, ML, DL, NLP, and LLM-based applications**.
 - 📊 Strong in **EDA**, **Data Visualization**, and **Model Building**.
 - 📌 **FYP**: AI-Based Book Recommendation System using LangChain.
-- 🎯 2025 Goal → **Build real-world AI solutions & start freelancing**.
+- 🎯 Goal → **Build real-world AI solutions & start freelancing**.
 - 💬 Ask me about — `Python`, `Pandas`, `EDA`, `ML Projects`, `LangChain`.
 
 ---
