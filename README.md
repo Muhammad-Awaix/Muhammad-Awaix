@@ -11,11 +11,10 @@ Python · FastAPI · LangChain · LangGraph 🚀
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 **BS Software Engineering** (CGPA 3.57), University of Sahiwal | IBM Data Science and Google Advanced Data Analytics certified.
+- 🎓 **BS Software Engineering** , University of Sahiwal | IBM Data Science and Google Advanced Data Analytics certified.
 - 🤖 Skilled in **Python, FastAPI, SQL, RAG, LangChain, LangGraph, and LLM-based applications**.
 - 📊 Data foundation in **SQL, Pandas, EDA, and Power BI dashboards**.
 - 📌 **FYP**: AI-Based Book Recommendation System using LangChain.
-- 🚀 Co-founder of [Dev66.pk](https://completedataanalytics.netlify.app/), a data analytics and data science education platform for students in Pakistan.
 - 🎯 Goal → **Build and ship production-grade LLM applications as an AI Application Engineer.**
 - 💼 Open to roles: AI Engineer, Generative AI Developer, LLM Application Engineer.
 - 🌐 Portfolio → [mawais78.netlify.app](https://mawais78.netlify.app/)
